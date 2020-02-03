@@ -1,0 +1,67 @@
+    body {
+        font-size: 16px;
+        color: #000;
+        font-family: sans-serif;
+        background-color: beige;
+    }
+    
+    #header-nav {
+        background-color: #efefef;
+        border: 2px solid #000;
+        border-radius: 0;
+    }
+    
+    .navbar-header {
+        padding-left: 25px;
+        font-weight: bold;
+        margin-top: -10px;
+    }
+    
+    #nav-list {
+        margin-top: 10px;
+    }
+    
+    #nav-list a {
+        text-align: center;
+        color: #000;
+    }
+    
+    .navbar-header button.navbar-toggle,
+    .navbar-header .icon-bar {
+        border: 3px solid #000;
+    }
+    
+    .navbar-header button.navbar-toggle {
+        clear: both;
+        margin-top: -50px;
+    }
+    
+    #collapsable-nav a {
+        padding: 5px;
+        margin: 0;
+    }
+    
+    h2 {
+        text-align: center;
+        margin-top: 20px;
+        font-weight: bold;
+    }
+    
+    .container h3 {
+        text-align: center;
+        font-size: 1.2em;
+        margin-top: 40px;
+    }
+    
+    .container {
+        background: #efefef;
+        margin: auto;
+    }
+    
+    .container p {
+        padding: 10px;
+    }
+    
+    #nav-list .visible-xs visible-sm {
+        border: 2px solid #000;
+    }
